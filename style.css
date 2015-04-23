@@ -1,0 +1,59 @@
+
+ p.description {
+  	font-size: 1em;
+  	margin: 0;
+  	padding: 0.5em 15px;
+  	border-bottom: solid 1px #000;
+  }
+ p.line {
+  	font-size: 0em;
+  	margin: 0;
+  	padding: 0.5em 15px;
+  	border-bottom: solid 1px #000;
+  }
+ 
+  a, a {
+	font-family: "Trebuchet MS", arial, sans-serif;
+  	line-height: 1.5;
+	}
+ .wrapper {
+	font-family: "Trebuchet MS", arial, sans-serif;
+	text-align: center;
+  	font-size: 2em;
+  	font-weight: bold;
+  	letter-spacing: 2px;
+  }
+  .hd {
+  font-family: "Trebuchet MS", arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  }
+
+.heading {
+	font-family: "Comic Sans MS", Chiller, "Curlz MT";
+	text-decoration: blink;
+	letter-spacing: 2mm;
+	word-spacing: 5mm;
+	font-size: x-large;
+	color: #663300;
+}
+.subheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	color: #993300;
+	text-decoration: underline;
+	text-align: right;
+}
+
+td.on {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-image: url(../images/menu_bg2.gif);
+    background-position: center center;
+	background-repeat: no-repeat;
+}
+td.off {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-image: url(../images/menu_bg1.gif);
+    background-position: center center;
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,19 @@
+while creating the images for circuit
+draw the circuit in PROTEUS
+goto file>select_area and 
+select the area you want to export
+goto file>Export>Bitmap
+Choose Marked Area, 100DPI, 16, Output file ot your desired folder
+
+Open the exported bmp file in PHOTOSHOP
+copy the entire area
+File>New   OK
+paste it (new layer will be created)
+delete the background layer
+use magic wand tool to select the empty white area and delete it
+You will get transparent background
+Save as Gif image..
+Image options
+Palatte:Exact
+Forced:Web
+Transparency:Checked

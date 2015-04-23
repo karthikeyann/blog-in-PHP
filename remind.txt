@@ -1,0 +1,17 @@
+To be completed
+***************
+
+>Create code for next 10 posts in index.php using reorderedposts.txt done-----------
+ .....i think you have to change the order in which orderedposts.txt is saved (that is latest posts first) done-------
+>create the code for accepting <img src="images/button.gif"/> in create.php  done-----------
+>create session for create.php,newtag.php,
+>problem in nl2br() function write ur own fn but replace \n by <br>
+
+
+
+>create showtag.php to show the posts under one tag alone--------------
+> create comment.php----------
+>add show comments as option in show.php----------
+>add "back" in show.php ( with or without comments)
+>change the format of saving to html completely... for displaying it just read it and display.--------------------------------
+ while writing a post convert to HTML code completely  and also use a wyswyg editor (get code from internet, don't write on own)

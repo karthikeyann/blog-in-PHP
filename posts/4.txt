@@ -1,0 +1,13 @@
+8|what are the 4 golden pins below my battery in my Nokia 3310?|Many have the doubt "what are the 4 golden pins below my battery in my Nokia 3310?"
+
+They are FBUS/MBUS pins.|FBUS/MBUS is a protocol used to connect mobile phone to any other device such as computer, microcontroller, etc.
+These FBUS/MBUS pins are given in this image.
+<img src="./images/p8_1.jpg" />
+
+RX and TX are FBUS pins. They work in full duplex mode(only receive or transmit). The speed of FBUS is much greater than MBUS.
+
+MBUS works in half duplex mode.(both transmit and receive through one pin but not at same time)
+
+For more detail, visit <a href="http://www.embedtronics.com/nokia/fbus.html"> www.embedtronics.com </a>
+
+|2.12.2009,12:53:5|0

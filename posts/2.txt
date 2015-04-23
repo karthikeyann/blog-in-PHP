@@ -1,0 +1,11 @@
+2|Rain Alarm|Rain Alarm helps you in many occations. This rain alarms is very simple to build with your favorite music as the buzzer.|This Rain alarm uses transistor 'darlington pair'.
+<b> Parts needed</b>
+1.Transistor BC547(any other transistor) -2
+2.Resistor   1k&#937;                         -2
+3.Wires of length 1m                     -2
+The distance between two wires should be less than 3mm. these wires are fixed at top of roof of the building so that whenever the rain drop falls and connects two wires, the circuit is complete which activates the alarm.
+The alarm is of your choice. you can use any buzzer you want.
+
+Here is the schematic.
+<img src="../images/rainalarm01.gif" />
+|24.5.2009,16:7:7|0
